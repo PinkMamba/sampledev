@@ -1,2 +1,2 @@
-# sampledev
-sample only
+# Pogi si Carl
+sample lang yan
